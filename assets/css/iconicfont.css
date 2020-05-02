@@ -1,0 +1,50 @@
+/*
+  Icon Font: my-favorite-icons
+*/
+
+@font-face {
+  font-family: "my-favorite-icons";
+  src: url("./my-favorite-icons_3f5a8db7e5538b3e88e99903a8b9fa8a.eot");
+  src: url("./my-favorite-icons_3f5a8db7e5538b3e88e99903a8b9fa8a.eot?#iefix") format("embedded-opentype"),
+       url(data:application/x-font-woff;charset=utf-8;base64,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),
+       url("./my-favorite-icons_3f5a8db7e5538b3e88e99903a8b9fa8a.woff") format("woff"),
+       url("./my-favorite-icons_3f5a8db7e5538b3e88e99903a8b9fa8a.ttf") format("truetype"),
+       url("./my-favorite-icons_3f5a8db7e5538b3e88e99903a8b9fa8a.svg#my-favorite-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "my-favorite-icons";
+    src: url("./my-favorite-icons_3f5a8db7e5538b3e88e99903a8b9fa8a.svg#my-favorite-icons") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icons8-i:before,
+.icons8-icons8:before,
+.icons8-icons8-logo:before,
+.icons8-like-filled:before,
+.icons8-like-outlined:before {
+  display: inline-block;
+  font-family: "my-favorite-icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icons8-i:before { content: "\f100"; }
+.icons8-icons8:before { content: "\f101"; }
+.icons8-icons8-logo:before { content: "\f102"; }
+.icons8-like-filled:before { content: "\f103"; }
+.icons8-like-outlined:before { content: "\f104"; }
